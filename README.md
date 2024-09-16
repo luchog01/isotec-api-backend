@@ -22,13 +22,13 @@ This section is aimed at users who want to run and use the API.
 
 Before you begin, ensure you have the following installed:
 - Python 3.7+
-- Poetry (for dependency management) Install it here: https://python-poetry.org/docs/#installation
+- Poetry (for dependency management) Install it [here](https://python-poetry.org/docs/#installation)
 
 ### Installation
 
 1. Clone the repository:
    ```
-   git clone git@github.com:luchog01/isotec-api-backend.git
+   git clone https://github.com/luchog01/isotec-api-backend.git
    cd isotec-api-backend
    ```
 
