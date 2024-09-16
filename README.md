@@ -12,7 +12,6 @@
   - [Authentication Flow](#authentication-flow)
   - [Database Configuration](#database-configuration)
   - [Logging](#logging)
-  - [Adding New Endpoints](#adding-new-endpoints)
   - [Testing](#testing)
 
 ## 👤 User Guide
