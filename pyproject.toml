@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "isotec-app-backend"
+version = "0.1.0"
+description = ""
+authors = ["Luciano Garbarino <lucigar01@gmail.com>"]
+license = "MIT Licence"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+fastapi = {extras = ["standard"], version = "0.114.1"}
+uvicorn = "0.30.6"
+SQLAlchemy = "2.0.34"
+pydantic = "2.9.1"
+passlib = "1.7.4"
+python-jose = "3.3.0"
+python-multipart = "0.0.9"
+bcrypt = "4.0.1"
+aiosqlite = "^0.20.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
